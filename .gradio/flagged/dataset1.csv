@@ -1,0 +1,3 @@
+Age,Sex,BMI,Number of Children,Smoker,Region,Prediction,timestamp
+40,male,30,2,no,southeast,,2026-01-17 18:26:28.298062
+50,male,30,1,no,northeast,"Predicted Insurance Cost: $11,155.25",2026-01-17 18:33:31.740150
